@@ -15,7 +15,7 @@ Feel free to explore the repository, contribute, and provide feedback. We apprec
 
 You can reach out to us through the following channels:
 
-- Website: *Soon*
+- Website: [xelyer](https://xelyerbot.netlify.app/)
 - Discord Server: [discord.gg/CHUCjdsMnZ](https://discord.gg/CHUCjdsMnZ)
 - Email: **nivinsvysakh2023@gmail.com**
 
