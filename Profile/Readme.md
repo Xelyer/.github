@@ -23,7 +23,7 @@ We look forward to connecting with you and hearing your thoughts!
 
 ## Contributions
 
-We welcome contributions from the community. If you are interested in contributing to our projects, please check out our [Contribution Guidelines](https://github.com/.github/contributing.md) for more information.
+We welcome contributions from the community. If you are interested in contributing to our projects, please check out our [Contribution Guidelines](https://github.com/Xelyer/.github/blob/main/CONTRIBUTING.md) for more information.
 
 ## Follow Us
 
