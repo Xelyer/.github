@@ -11,7 +11,7 @@ Xelyerbot is a modern joke bot developed by our team. It provides a fun and inte
 Feel free to explore the repository, contribute, and provide feedback. We appreciate your support!
 </p>
 
-##☎️ Contact
+## ☎️ Contact
 
 You can reach out to us through the following channels:
 
