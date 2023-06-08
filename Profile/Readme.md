@@ -1,9 +1,9 @@
 
-# Xelyer Organization
+# 🌐 Xelyer Organization
 Welcome to the official GitHub profile of Xelyer, a team dedicated to developing modern Discord bots.
 
 
-## Xelyerbot
+## 👾 Xelyerbot
 Xelyerbot is a modern joke bot developed by our team. It provides a fun and interactive experience for Discord communities. You can check out the bot and its source code on GitHub:
 
 - [Xelyerbot Repository](https://github.com/Xelyer/Xelyerbot)
@@ -11,7 +11,7 @@ Xelyerbot is a modern joke bot developed by our team. It provides a fun and inte
 Feel free to explore the repository, contribute, and provide feedback. We appreciate your support!
 </p>
 
-## Contact
+##☎️ Contact
 
 You can reach out to us through the following channels:
 
@@ -21,11 +21,11 @@ You can reach out to us through the following channels:
 
 We look forward to connecting with you and hearing your thoughts!
 
-## Contributions
+## 🫂 Contributions
 
 We welcome contributions from the community. If you are interested in contributing to our projects, please check out our [Contribution Guidelines](https://github.com/Xelyer/.github/blob/main/CONTRIBUTING.md) for more information.
 
-## Follow Us
+## 🔥 Follow Us
 
 Stay updated with our latest projects and announcements by following us on social media:
 
