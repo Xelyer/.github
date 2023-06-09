@@ -16,12 +16,12 @@ Feel free to explore the repository, contribute, and provide feedback. We apprec
 You can reach out to us through the following channels:
 
 - Website: [xelyer](https://xelyerbot.netlify.app/)
-- Discord Server: [discord.gg/CHUCjdsMnZ](https://discord.gg/CHUCjdsMnZ)
+- Support Server [discord.gg/uGgUQcj4GY](https://discord.gg/uGgUQcj4GY)
 - Email: **nivinsvysakh2023@gmail.com**
 
 We look forward to connecting with you and hearing your thoughts!
 
-## 🫂 Contributions
+## 🤼 Contributions
 
 We welcome contributions from the community. If you are interested in contributing to our projects, please check out our [Contribution Guidelines](https://github.com/Xelyer/.github/blob/main/CONTRIBUTING.md) for more information.
 
@@ -29,7 +29,8 @@ We welcome contributions from the community. If you are interested in contributi
 
 Stay updated with our latest projects and announcements by following us on social media:
 
-- Discord Server: [discord.gg/CHUCjdsMnZ](https://discord.gg/CHUCjdsMnZ)
+- Discord dev Server: [discord.gg/CHUCjdsMnZ](https://discord.gg/CHUCjdsMnZ)
+- Support Server [discord.gg/uGgUQcj4GY](https://discord.gg/uGgUQcj4GY)
 
 ### Thank you for your interest in Xelyer and our projects!
 ---
