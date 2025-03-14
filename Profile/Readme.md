@@ -30,7 +30,8 @@ We welcome contributions from the community. If you are interested in contributi
 
 Stay updated with our latest projects and announcements by following us on social media:
 
-- Support Server [discord.gg/uGgUQcj4GY](https://discord.gg/c9mASx5GFV)
+- Support Server [Xelyer Universe](https://discord.gg/c9mASx5GFV)
+- - X: [Xelyer](https://x.com/Xelyerbot)
 
 ### Thank you for your interest in Xelyer and our projects!
 ---
